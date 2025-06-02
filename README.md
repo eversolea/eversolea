@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eversolea
 - 👀 I’m interested in 3D Modeling, Computer Graphics, and Computer Vision
-- 🌱 I’m currently learning computational neuroscience and building my own raytracer
+- 🌱 I’ve enjoyed learning computational neuroscience and building my own raytracer
 - 📫 How to reach me: austin@eversoles.org
 
 <!---
